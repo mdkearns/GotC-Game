@@ -1,0 +1,3 @@
+Main-Class: ZombieGame.ZombieGame
+Class-Path: bin/
+
